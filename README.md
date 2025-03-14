@@ -1,40 +1,33 @@
-# 👋 Hi, I'm Shakeel Hamza
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 
-## 🚀 MERN Stack Developer | 3+ Years Experience
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Senior+Full+Stack+Lead;Cloud+Architect+%7C+MERN+Stack+Developer;Enhancing+User+Experiences)](https://git.io/typing-svg)
 
+---
+
+## 🚀 About Me
 Passionate MERN Stack Developer with a strong background in designing and implementing scalable web applications. Adept at collaborating with cross-functional teams to deliver high-quality, responsive applications.
 
----
+## 🎯 Key Expertise
+✅ **Full Stack Development:** MERN, Next.js, Tailwind CSS, MUI
+✅ **Cloud Architecting:** AWS Cognito, Lambda, S3, EC2, Azure   
+✅ **Backend Engineering:** Node.js, Express.js, RESTful APIs, GraphQL  
+✅ **Frontend Development:** React, Vue.js, WebRTC, AI Integrations  
+✅ **Database Management:** MongoDB, SQL, PostgreSQL, Supabase  
+✅ **Automation & DevOps:** Docker, CI/CD, Kubernetes, Server Management  
 
-## 📫 Contact Information
-- **📍 Address:** House #5, Muslim Road, Lahore
-- **📧 Email:** [shakeelhamza870@gmail.com](mailto:shakeelhamza870@gmail.com)
-- **🌐 GitHub:** [GitHub Profile](https://github.com/yourusername)
-
----
-
-## ⚡ Tech Stack
-
-### 🔹 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-### 🔹 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔹 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+## 💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws" />
+</p>
 
 ---
 
@@ -45,9 +38,7 @@ Passionate MERN Stack Developer with a strong background in designing and implem
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamzashakeel12&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true"/>
-</p>
+
 ---
 
 ## 🔥 Work Experience
@@ -99,7 +90,5 @@ Passionate MERN Stack Developer with a strong background in designing and implem
 - 🎯 **Portfolio:** [Your Portfolio](https://yourportfolio.com)
 
 ---
-
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 ### Thanks for visiting! 🚀✨
