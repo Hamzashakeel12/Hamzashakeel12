@@ -38,10 +38,16 @@ Passionate MERN Stack Developer with a strong background in designing and implem
 
 ---
 
-## 🏆 GitHub Stats
-![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzashakeel12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzashakeel12&layout=compact&theme=radical)
 
+## 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamzashakeel12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamzashakeel12&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true"/>
+</p>
 ---
 
 ## 🔥 Work Experience
