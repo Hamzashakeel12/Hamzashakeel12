@@ -2,7 +2,7 @@
 
 ## 🚀 MERN Stack Developer | 3+ Years Experience
 
-Passionate MERN Stack Developer with a strong background in designing and implementing scalable web applications. Adept at collaborating with cross-functional teams to deliver high-quality, responsive solutions.
+Passionate MERN Stack Developer with a strong background in designing and implementing scalable web applications. Adept at collaborating with cross-functional teams to deliver high-quality, responsive applications.
 
 ---
 
@@ -14,6 +14,7 @@ Passionate MERN Stack Developer with a strong background in designing and implem
 ---
 
 ## ⚡ Tech Stack
+
 ### 🔹 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,6 +45,7 @@ Passionate MERN Stack Developer with a strong background in designing and implem
 ---
 
 ## 🔥 Work Experience
+
 ### 🚀 AB {ARK} PVT Limited (Dec 2023 - Present)
 - **SaaS Multi-Tenant System:** Online PDF signing, estimation, and customer management.
 - **Task Management System:** Live time tracker, task assignment, and role-based access.
@@ -71,15 +73,16 @@ Passionate MERN Stack Developer with a strong background in designing and implem
 ---
 
 ## 📌 Notable Projects
-### 🎨 **Crafty Cue**
+
+### 🎨 Crafty Cue
 - Custom SVG image generator with watermarking and vector finalization.
 - **Tech:** React, Node.js, Express, MongoDB, Material UI.
 
-### 🔗 **SSL Commerz - Online Airline System**
+### 🔗 SSL Commerz - Online Airline System
 - Real-time flight booking via Flyhub API.
 - **Tech:** React, Node.js, Express, MongoDB, SSL Commerz.
 
-### 🏗 **Ontezo - AI-Based Multi-Tenant Management**
+### 🏗 Ontezo - AI-Based Multi-Tenant Management
 - Sprint planning, Trello-style task board, time tracking.
 - **Tech:** React, Redux, Node.js, MongoDB, React DnD.
 
@@ -94,4 +97,3 @@ Passionate MERN Stack Developer with a strong background in designing and implem
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 ### Thanks for visiting! 🚀✨
-
